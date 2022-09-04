@@ -1,4 +1,2 @@
 # the7ag-Sudoku-Solver
-I made a Sudoku Solver Using Python
-it uses recursion alot
-you can use anyboard it'll still work
+Sudoku Solver, following an online tutorial :) Used recursion and backtracking for the main solving algorithm. Apart from auto solve, user can also use any board he wants and it'll still be working.
